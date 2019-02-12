@@ -8,8 +8,8 @@
 </head>
 <body>
     
-    <input id="birtext" type="text">
-    <span id="sonuc"></span>
+   İsim: <input id="isim" type="text">
+    <span id="uyari"></span>
 
     <script type="text/javascript"  src="js/jquery.js"></script>
     <script type="text/javascript"  src="js/ders29.js"></script>
