@@ -12,7 +12,7 @@
     </select>
 
     <span id="secim"></span>
-
+dsf
     <script type="text/javascript"  src="js/jquery.js"></script>
     <script type="text/javascript"  src="js/ders24.js"></script>
 </body>
