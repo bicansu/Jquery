@@ -10,6 +10,6 @@
     <p id="text" style="color:red;">Cansu Bican</p>
 
     <script type="text/javascript"  src="js/jquery.js"></script>
-    <script type="text/javascript"  src="js/ders27.js"></script>
+    <script type="text/javascript"  src="js/ders41.js"></script>
 </body>
 </html>    
