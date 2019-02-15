@@ -1,0 +1,15 @@
+body{
+    margin-top: 0px;
+}
+
+#mesaj{
+    display:none;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: 700px;
+    font-size: 20px;
+    padding: 20px;
+    color: #fff;
+    background: #000;
+}
